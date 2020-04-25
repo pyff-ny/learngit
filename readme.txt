@@ -9,3 +9,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Add merge.
 this is for bug dev.
+
+Test for using sourcetree.
